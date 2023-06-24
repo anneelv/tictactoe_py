@@ -15,9 +15,9 @@ Some functionalities I added:
 
 Some minor things that I added in:
 1. PLayer is able to choose the option either using:
-    a. "1" or "2" key in keyboard
-    b. Arrow up, down, and enter key
-2. An arrow is used to determine the current position of chosen option if the player were to choose using arrow button instead of the numbers directly
+   - "1" or "2" key in keyboard, or
+   - Arrow up, down, and enter key
+3. An arrow is used to determine the current position of chosen option if the player were to choose using arrow button instead of the numbers directly
 
 Several problems I encountered:
 1. I am a bit confused about the python interpreter and things because I have several version of python in my system. When I change IDE from PyCharm to VSCode, I have a little bit of problem when trying to run the file

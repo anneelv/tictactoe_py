@@ -18,3 +18,7 @@ Some minor things that I added in:
     a. "1" or "2" key in keyboard
     b. Arrow up, down, and enter key
 2. An arrow is used to determine the current position of chosen option if the player were to choose using arrow button instead of the numbers directly
+
+Several problems I encountered:
+1. I am a bit confused about the python interpreter and things because I have several version of python in my system. When I change IDE from PyCharm to VSCode, I have a little bit of problem when trying to run the file
+2. I also was confused about the need of python environment (where I usually create using `venv`). The environment is useful if you want a fixed python environment and packages ready to run that specific python file. Rather than relying on the environment of each system. Hence, I believe that python environment is useful if you want the python file to work properly no matter where it is launched (I hope my understanding is correct).
